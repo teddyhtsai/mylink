@@ -149,12 +149,12 @@ button:hover,
 .button.button-medium:focus {
   filter: brightness(90%) }
 
-/* Mixer */
-.button.button-mixer {
-  color: #FFFFFF;
-  background-color: #212c3d }
-.button.button-mixer:hover,
-.button.button-mixer:focus {
+/* LINE */
+.button.button-line {
+  color: #00B900;
+  background-color: #00B900 }
+.button.button-line:hover,
+.button.button-line:focus {
   filter: brightness(90%) }
 
 /* Pinterest */
